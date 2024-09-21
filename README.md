@@ -13,6 +13,7 @@ o estructurar el código para resolver un tipo particular de problema de manera 
 ### Patrones Creacionales (Creational)
 
 - Singleton
+- Factory
 
 ### Patrones Estructurales (Structural)
 
